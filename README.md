@@ -1,4 +1,4 @@
-# Web-Skills-with-Shikmamaru(5)
+# Web-Skills-with-Shikmamaru(6)
 ![Shikamaru](https://github.com/whitebird1016/Web-Skills-with-Shikmamaru/blob/main/1_HTGSqvOc52yfMwyLhCMjVA.jpeg)
 <h2>Function Skills</h2>
 <h3>1: Function self-execution</h3>
